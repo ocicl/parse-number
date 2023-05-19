@@ -1,0 +1,10 @@
+* parse-number
+
+PARSE-NUMBER is a library of functions for parsing strings into one of
+the standard Common Lisp number types without using the reader.
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/sharplispers/parse-number.git |
+| commit  | de944fd                                              |
+| systems | parse-number                                         |
+|---------+------------------------------------------------------|
