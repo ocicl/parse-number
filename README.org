@@ -5,6 +5,6 @@ the standard Common Lisp number types without using the reader.
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/sharplispers/parse-number.git |
-| commit  | de944fd                                              |
+| commit  | 6f88c38                                              |
 | systems | parse-number                                         |
 |---------+------------------------------------------------------|
